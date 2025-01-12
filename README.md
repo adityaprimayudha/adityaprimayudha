@@ -1,10 +1,10 @@
 # Hi there 👋  
 
 Perkenalkan nama saya **Aditya Primayudha**  
-- 🔭 Sekarang lagi mencoba menjadi seorang Android Developer
+- 🔭 Sekarang lagi mencoba menjadi seorang **Android Developer**
 - 🌱 Tentunya sekarang lagi belajar semua hal yang berkaitan dengan Android Development ✨
-- 🏫 Lulusan S1 Informatika di UPN Veteran Jawa Timur
-- ✍️ Sedang mengikuti Dicoding Bootcamp Batch 5
+- 🏫 Lulusan S1 Informatika di **UPN Veteran Jawa Timur**
+- ✍️ Sedang mengikuti **Dicoding Bootcamp Batch 5**
 
 Walaupun sekarang profil sepi, tapi kedepannya pasti lebih ramai lagi jadi jangan sungkan untuk menambahkan saya ke koneksi LinkedIn kalian ya! [LinkedIn](https://www.linkedin.com/in/aditya-primayudha/).  
 
