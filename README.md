@@ -5,7 +5,15 @@ Perkenalkan nama saya **Aditya Primayudha**
 - 🌱 Tentunya sekarang lagi belajar semua hal yang berkaitan dengan Android Development ✨
 - 🏫 Lulusan S1 Informatika di UPN Veteran Jawa Timur
 
-Walaupun sekarang profil sepi, tapi kedepannya pasti lebih ramai lagi jadi jangan sungkan untuk menambahkan saya ke koneksi LinkedIn kalian ya! [LinkedIn](https://www.linkedin.com/in/aditya-primayudha/).
+Walaupun sekarang profil sepi, tapi kedepannya pasti lebih ramai lagi jadi jangan sungkan untuk menambahkan saya ke koneksi LinkedIn kalian ya! [LinkedIn](https://www.linkedin.com/in/aditya-primayudha/).  
+
+### Github Statistics  
+<p align="left">
+<a href="https://github.com/adityaprimayudha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaprimayudha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaprimayudha&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **adityaprimayudha/adityaprimayudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
