@@ -11,7 +11,7 @@ Walaupun sekarang profil sepi, tapi kedepannya pasti lebih ramai lagi jadi janga
 ### Github Statistics  
 <p align="left">
 <a href="https://github.com/adityaprimayudha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaprimayudha&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaprimayudha&show_icons=true&theme=tokyonight"/>
 </a>
 </p>
 <!--
